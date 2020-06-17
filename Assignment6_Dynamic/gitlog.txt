@@ -1,0 +1,344 @@
+commit 0a4e4510a4b383b55c2088058d76dff9e2b9725f
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 22:41:17 2020 -0400
+
+    Fixed two term addition
+
+commit 659c9210fea917e7d803144b2cd26dde9633be48
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 22:03:22 2020 -0400
+
+    Fixed while loop
+
+commit 009662b251afdabe6374a991afe4af8e6d33f55e
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 21:50:42 2020 -0400
+
+    Again
+
+commit e5c5ffea10bc85be34748d47c6d6d7bb74f2e204
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 21:34:30 2020 -0400
+
+    Dont delete poly.c again
+
+commit ab5d97d0f1bee6744481c3e24002d0b6aac2bbb2
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 21:15:46 2020 -0400
+
+    In case
+
+commit 018b36fba45a3a59a80ee0902418d288ae0a2046
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 02:19:01 2020 -0400
+
+    Fix segmentation fault problem.
+
+commit dedc6fa098ce8adab223d937961642c21df51000
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 00:51:53 2020 -0400
+
+    Working on sizeOfList fn
+
+commit 025a00d14ecefca6b82a6ffcd18dd6b517cba5f0
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 01:12:52 2020 -0400
+
+    Working on powi function
+
+commit 6d3d8482e16a67e7d280859521319cbb45db56e8
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 01:08:35 2020 -0400
+
+    Working on powi function
+
+commit 3fde040bff27545b541ccd1f6540eb2d2c3af677
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 00:34:36 2020 -0400
+
+    Working on parse function
+
+commit 405923809b2df94761ea305ba35ab21e8b875682
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 00:04:16 2020 -0400
+
+    Initialized files
+commit 8d31c0df8162761f34043b9f61559e1ddfdb89db
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 00:31:06 2020 -0400
+
+    After commenting.
+
+commit ff15fd5d871fbd86176011847554f120fcdf5e07
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 23:28:11 2020 -0400
+
+    Adding the gitlog.txt
+
+commit 00938356f523531e69361b019119b66b590ca42e
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 23:27:47 2020 -0400
+
+    Done! Gotta comment though.
+
+commit 0a4e4510a4b383b55c2088058d76dff9e2b9725f
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 22:41:17 2020 -0400
+
+    Fixed two term addition
+
+commit 659c9210fea917e7d803144b2cd26dde9633be48
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 22:03:22 2020 -0400
+
+    Fixed while loop
+
+commit 009662b251afdabe6374a991afe4af8e6d33f55e
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 21:50:42 2020 -0400
+
+    Again
+
+commit e5c5ffea10bc85be34748d47c6d6d7bb74f2e204
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 21:34:30 2020 -0400
+
+    Dont delete poly.c again
+
+commit ab5d97d0f1bee6744481c3e24002d0b6aac2bbb2
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 21:15:46 2020 -0400
+
+    In case
+
+commit 018b36fba45a3a59a80ee0902418d288ae0a2046
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 02:19:01 2020 -0400
+
+    Fix segmentation fault problem.
+
+commit dedc6fa098ce8adab223d937961642c21df51000
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 00:51:53 2020 -0400
+
+    Working on sizeOfList fn
+
+commit 025a00d14ecefca6b82a6ffcd18dd6b517cba5f0
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 01:12:52 2020 -0400
+
+    Working on powi function
+
+commit 6d3d8482e16a67e7d280859521319cbb45db56e8
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 01:08:35 2020 -0400
+
+    Working on powi function
+
+commit 3fde040bff27545b541ccd1f6540eb2d2c3af677
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 00:34:36 2020 -0400
+
+    Working on parse function
+
+commit 405923809b2df94761ea305ba35ab21e8b875682
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 00:04:16 2020 -0400
+
+    Initialized files
+commit bcbed8874b0b6ad680b66f886154ba8fe5133561
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Tue Apr 14 12:10:21 2020 -0400
+
+    Fixing the sign issue
+
+commit e0c7c0116fdc4c04d7efd7c676812e9e72f34b96
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 00:34:27 2020 -0400
+
+    Adding gitlog.txt
+
+commit 8d31c0df8162761f34043b9f61559e1ddfdb89db
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 00:31:06 2020 -0400
+
+    After commenting.
+
+commit ff15fd5d871fbd86176011847554f120fcdf5e07
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 23:28:11 2020 -0400
+
+    Adding the gitlog.txt
+
+commit 00938356f523531e69361b019119b66b590ca42e
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 23:27:47 2020 -0400
+
+    Done! Gotta comment though.
+
+commit 0a4e4510a4b383b55c2088058d76dff9e2b9725f
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 22:41:17 2020 -0400
+
+    Fixed two term addition
+
+commit 659c9210fea917e7d803144b2cd26dde9633be48
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 22:03:22 2020 -0400
+
+    Fixed while loop
+
+commit 009662b251afdabe6374a991afe4af8e6d33f55e
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 21:50:42 2020 -0400
+
+    Again
+
+commit e5c5ffea10bc85be34748d47c6d6d7bb74f2e204
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 21:34:30 2020 -0400
+
+    Dont delete poly.c again
+
+commit ab5d97d0f1bee6744481c3e24002d0b6aac2bbb2
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 21:15:46 2020 -0400
+
+    In case
+
+commit 018b36fba45a3a59a80ee0902418d288ae0a2046
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 02:19:01 2020 -0400
+
+    Fix segmentation fault problem.
+
+commit dedc6fa098ce8adab223d937961642c21df51000
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 00:51:53 2020 -0400
+
+    Working on sizeOfList fn
+
+commit 025a00d14ecefca6b82a6ffcd18dd6b517cba5f0
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 01:12:52 2020 -0400
+
+    Working on powi function
+
+commit 6d3d8482e16a67e7d280859521319cbb45db56e8
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 01:08:35 2020 -0400
+
+    Working on powi function
+
+commit 3fde040bff27545b541ccd1f6540eb2d2c3af677
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 00:34:36 2020 -0400
+
+    Working on parse function
+
+commit 405923809b2df94761ea305ba35ab21e8b875682
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 00:04:16 2020 -0400
+
+    Initialized files
+commit 18e3a9864ff34b5f72ecaa4230471c010d2edba9
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Tue Apr 14 12:23:07 2020 -0400
+
+    Actually fixed it now
+
+commit bcbed8874b0b6ad680b66f886154ba8fe5133561
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Tue Apr 14 12:10:21 2020 -0400
+
+    Fixing the sign issue
+
+commit e0c7c0116fdc4c04d7efd7c676812e9e72f34b96
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 00:34:27 2020 -0400
+
+    Adding gitlog.txt
+
+commit 8d31c0df8162761f34043b9f61559e1ddfdb89db
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 00:31:06 2020 -0400
+
+    After commenting.
+
+commit ff15fd5d871fbd86176011847554f120fcdf5e07
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 23:28:11 2020 -0400
+
+    Adding the gitlog.txt
+
+commit 00938356f523531e69361b019119b66b590ca42e
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 23:27:47 2020 -0400
+
+    Done! Gotta comment though.
+
+commit 0a4e4510a4b383b55c2088058d76dff9e2b9725f
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 22:41:17 2020 -0400
+
+    Fixed two term addition
+
+commit 659c9210fea917e7d803144b2cd26dde9633be48
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 22:03:22 2020 -0400
+
+    Fixed while loop
+
+commit 009662b251afdabe6374a991afe4af8e6d33f55e
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 21:50:42 2020 -0400
+
+    Again
+
+commit e5c5ffea10bc85be34748d47c6d6d7bb74f2e204
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 21:34:30 2020 -0400
+
+    Dont delete poly.c again
+
+commit ab5d97d0f1bee6744481c3e24002d0b6aac2bbb2
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 21:15:46 2020 -0400
+
+    In case
+
+commit 018b36fba45a3a59a80ee0902418d288ae0a2046
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 02:19:01 2020 -0400
+
+    Fix segmentation fault problem.
+
+commit dedc6fa098ce8adab223d937961642c21df51000
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 00:51:53 2020 -0400
+
+    Working on sizeOfList fn
+
+commit 025a00d14ecefca6b82a6ffcd18dd6b517cba5f0
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 01:12:52 2020 -0400
+
+    Working on powi function
+
+commit 6d3d8482e16a67e7d280859521319cbb45db56e8
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 01:08:35 2020 -0400
+
+    Working on powi function
+
+commit 3fde040bff27545b541ccd1f6540eb2d2c3af677
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 00:34:36 2020 -0400
+
+    Working on parse function
+
+commit 405923809b2df94761ea305ba35ab21e8b875682
+Author: Megan CVITAN <mcvita@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 00:04:16 2020 -0400
+
+    Initialized files
