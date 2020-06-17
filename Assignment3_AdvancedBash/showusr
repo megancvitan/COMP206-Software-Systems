@@ -1,0 +1,62 @@
+#Do not include a sh-bang (#!/bin/bash) in this script.
+#Do not write code outside of this function body
+function fname()
+{
+
+#look if the amount of arguments is equal to 0
+#if there is no input for the function
+if [ $# -eq 0 ]
+then 
+	FNAME=ERROR
+	return 1
+fi
+
+#login name is the first argument that is taken
+login=$1
+
+#we are looking for the first name of the user
+#we will hide the header
+#the awk command takes the second argument from the refined results 
+#head -1 will only display the first result in case there are many login 
+#sessions for a user
+  
+fname=$(pinky -f $login | awk '{print $2}' | head -1)
+
+#if nothing is returned, then that user is not signed in
+
+if [ -z "$fname" ]
+then
+	FNAME=NOTFOUND
+	return 0
+fi
+
+#we have found a user with this name
+#set the function equal to the result that we get and make sure to return 0
+#the awk command takes the second argument from the refined results
+#head -1 will only display the first result in case there are many login
+#sessions for a user
+
+fname=$(pinky -f $login | awk '{print $2}' | head -1)
+
+#if nothing is returned, then that user is not signed in
+
+if [ -z "$fname" ]
+then
+        FNAME=NOTFOUND
+        return 0
+fi
+
+#we have found a user with this name
+#set the function equal to the result that we get and make sure to return 0
+
+FNAME=$fname
+return 0
+
+}
+
+FNAME=$fname
+return 0
+
+}
+
+
